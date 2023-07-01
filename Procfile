@@ -1,1 +1,1 @@
-worker: node . --db 'mongodb+srv://Xeon:raka12345@xeon.eszhskm.mongodb.net/?retryWrites=true&w=majority'
+worker: node index.js
